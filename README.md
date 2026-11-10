@@ -143,3 +143,7 @@ src/Display.cs         the monitor-power broadcast
 src/Strings.cs         all user-visible text
 src/ScreenOff.manifest DPI awareness and supported-OS declarations
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
